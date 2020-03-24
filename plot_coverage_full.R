@@ -1,5 +1,5 @@
 ## © 2020 STORM Therapeutics Limited
-## This code is licensed under the BSD 3-Clause License. See License file for details.
+## This code is licensed under the BSD 3-Clause License. See LICENSE file for details.
 ## Author: Hendrik Weisser
 
 library(viridisLite) # color palettes
